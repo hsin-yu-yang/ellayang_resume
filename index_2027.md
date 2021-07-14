@@ -29,7 +29,7 @@ __Math For The Real World__ TA
 
 `2019/6-9`
 __Dazhong Real Estate__ Administrative Assistant
-- I spent over 270 hours in the call center over a 3-month period averaging about 3 to 4 hours per day. It was my responsibility to be the first-contact representative, and I learned to be pleasant, polite, and professional with every call
+- wored over 270 hours in the call center over a 3-month period averaging about 3 to 4 hours per day. 
 
 ### Data Science Lead
 
