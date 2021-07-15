@@ -55,7 +55,6 @@ __Counselor__, Youth Conference
 __Service Missionary__, Temple Square, UT 
 
 
-
 <!-- ### Footer
 
 Last updated: May 2013 -->
